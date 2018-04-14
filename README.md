@@ -11,7 +11,7 @@ The digital badge is an interactive circuit board that among other things
 contains a modem allowing attendees to make land line calls from the badge.
 
 I know the [tymkrs](http://tymkrs.com/) personally, they created this year's
-electronic badge and was part of their setup crew this year. The badges have
+electronic badge and was part of their setup crew. The badges have
 a lot of features in multiple modes.
 
 # Conference

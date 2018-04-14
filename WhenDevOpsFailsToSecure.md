@@ -1,7 +1,8 @@
 # Developers, developers, developers.
 # When DevOps Fails to Secure.
 
-By: David Bryan (VideoMan)
+Presenter: David Bryan (VideoMan)
+Date: 04/12/2018
 
 I came in after David started his talk but it was very good. He was talking
 about using SSH keys are not enough. We all should be using
