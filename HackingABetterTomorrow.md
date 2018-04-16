@@ -7,6 +7,8 @@ Ben is a Midwest Gaming Classic alumni and physical hacker modding hardware. He
 used the Internet to gain fame and customers. His first big hit was a portable
 hand held Atari 2600.
 
+![Atari 2600 portable](pictures/20180413_123504.jpg)
+
 He warned:  
 If your hobby becomes your job, then you have to find a new hobby.
 
@@ -23,6 +25,9 @@ Why do we still need hackers when there is so much cool stuff already?
 * Large companies focus on large market. Not niche use cases.
 * Hackers take risks that large companies will not.
 * Hackers live in the real world, not the marketing bubble.
+
+Hacking is life!
+![hacking is life](pictures/20180413_130042.jpg)
 
 The earth is all we have to work with.
 

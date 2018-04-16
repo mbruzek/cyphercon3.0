@@ -40,6 +40,8 @@ He said try to learn from new employees instead of shooting down their ideas.
 Some times it takes a fresh set of eyes on the problem to come up with a
 solution.
 
+![end of talk](pictures/20180412_151216.jpg)
+
 ### CyberAces
 
 I spoke with Tim after the talk. He said that they are bringing back the

@@ -14,6 +14,8 @@ I know the [tymkrs](http://tymkrs.com/) personally, they created this year's
 electronic badge and was part of their setup crew. The badges have
 a lot of features in multiple modes.
 
+![building the badge](pictures/20180412_152614.jpg)
+
 # Conference
 
 Despite "working" assembling badges I was able to attend some talks and they
@@ -29,6 +31,10 @@ apple cider vinegar and even that tasted sweet and good. Eating sourpatch candy
 was deliciously sweet as well! Finally the biohacker gave me some cheap whiskey
 and this substance made the cheap whiskey taste very good! I was very impressed.
 
-The substance is glyco (something) and grows in South America and Africa. It
-has not yet been approved by the FDA but you can apparently buy it on Amazon
-like everything else.
+![biohacking](pictures/20180413_100435.jpg)
+
+The substance is glycoprotein "Miraculin" from plants that grow in South America
+and Africa. The substance has not yet been approved by the FDA but you can 
+apparently buy it on Amazon like everything else.
+
+
